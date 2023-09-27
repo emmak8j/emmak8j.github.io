@@ -21,3 +21,5 @@
 # Now, I am accessing the file by clicking on it in my File Explorer and selecting the Notepad app to edit. I will save this file, open GitHub desktop, commit the changes to main, and push the changes to origin. 
 
 # I will submit the github repository URL with screenshots.
+
+# This is a test change so that I can take screenshots of the process.
